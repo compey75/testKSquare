@@ -2,5 +2,7 @@
 
 1 npm install
 
-2 Download the POST Man Colection to test it out
+2 npm run start:dev
+
+3 Download the POST Man Colection to test it out
 
